@@ -8,6 +8,7 @@ namespace Descodificador
 			int i, c = 0, a;
 			string f = null; //que farà el programa, codificar o descodificar
 			Console.WriteLine("Vols codificar o descodificar? (c/d)");
+                        Console.WriteLine("Hola, fet amb linux.");
 			while (f != "c" && f != "d")
 			{
 				f = Console.ReadLine();
