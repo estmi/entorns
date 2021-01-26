@@ -6,7 +6,7 @@ namespace Descodificador
 		static void Main(string[] args)
 		{
 			int i, c = 0, a;
-			string f = null;
+			string f = null; //que farà el programa, codificar o descodificar
 			Console.WriteLine("Vols codificar o descodificar? (c/d)");
 			while (f != "c" && f != "d")
 			{
