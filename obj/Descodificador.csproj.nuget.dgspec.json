@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\Descodificador\\Descodificador.csproj": {}
+    "Z:\\C# Projects\\Descodificador\\Descodificador.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\Descodificador\\Descodificador.csproj": {
+    "Z:\\C# Projects\\Descodificador\\Descodificador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\Descodificador\\Descodificador.csproj",
+        "projectUniqueName": "Z:\\C# Projects\\Descodificador\\Descodificador.csproj",
         "projectName": "Descodificador",
-        "projectPath": "D:\\C# Projects\\Descodificador\\Descodificador.csproj",
+        "projectPath": "Z:\\C# Projects\\Descodificador\\Descodificador.csproj",
         "packagesPath": "C:\\Users\\estmi\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\Descodificador\\obj\\",
+        "outputPath": "Z:\\C# Projects\\Descodificador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\estmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
